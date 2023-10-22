@@ -3,6 +3,7 @@ import React from "react";
 const Section1 = () => {
   return (
     <div>
+      {/* // 1st */}
       <div
         className="hero min-h-screen flex flex-col"
         style={{

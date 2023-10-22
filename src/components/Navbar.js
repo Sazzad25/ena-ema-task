@@ -40,10 +40,6 @@ const Navbar = () => {
           <li>
             <h1 className="text-xl font-bold">BALENCIAGA</h1>
           </li>
-          {/* <li>BALENCIAGA</li>
-          <li>
-            <a>Item 3</a>
-          </li> */}
         </ul>
       </div>
       <div className="navbar-end">
