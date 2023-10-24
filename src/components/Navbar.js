@@ -5,7 +5,6 @@ import Gifts from "./Gifts";
 import Men from "./Men";
 import Women from "./Women";
 import NewArrivals from "./NewArrivals";
-import Login from "./Login";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
